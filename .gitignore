@@ -4,3 +4,4 @@ loba
 BUILDS
 *.db
 config/neosay.json
+config/domains.json
