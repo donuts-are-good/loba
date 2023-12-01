@@ -1,0 +1,16 @@
+[
+  {
+      "domain": "example1.com",
+      "servers": [
+          "http://server1.example.com",
+          "http://server2.example.com"
+      ]
+  },
+  {
+      "domain": "example2.com",
+      "servers": [
+          "http://server3.example.com",
+          "http://server4.example.com"
+      ]
+  }
+]
